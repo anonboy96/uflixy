@@ -9,7 +9,7 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = "6342510728:AAFxoV7JPsfPEhcVSLTuyhkcb92rvbqsBq4"
-URL = "https://uflixy.vercel.app"
+URL = "https://uflixy-anonboy96.vercel.app"
 bot = Bot(TOKEN)
 
 
